@@ -1,0 +1,12 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1758272310
+cam.gd::GDScript/GDScript::7205590295352015674::1757671082::0::1::::<>SpringArm3D<><>0<>0<><>::
+camera_pivot.gd::GDScript::2809151005215847381::1757939821::0::1::::<>Node3D<><>0<>0<><>::
+car.gd::GDScript::8226081352780358038::1757938818::0::1::::<>VehicleBody3D<><>0<>0<><>::
+car_done.tscn::PackedScene::1682794429461307176::1758270809::0::1::::<><><>0<>0<><>::uid://dpg1mf5g0nhni::::res://car.gd<>uid://bjnd00vek1a0u::::res://assets/colormap.png<>uid://bga1kop62ax2t::::res://camera_pivot.gd
+icon.svg::CompressedTexture2D/CompressedTexture2D::4707964644958314093::1757666602::1757666612::1::::<><><>0<>0<>ae34f94c7180651e1e3cc5c049714204<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+suv.tscn::PackedScene::4953984394182043721::1758270809::0::1::::<><><>0<>0<><>::uid://bkc1g842mtv1f::::res://assets/suv.fbx
+::res://assets/::1758273205
+colormap.png::CompressedTexture2D/CompressedTexture2D::3045185328784865558::1757668119::1757668134::1::::<><><>0<>0<>2e4367b6a230061bccbeb67abd427590<>res://.godot/imported/colormap.png-3b72b771dcdddc8ba8eb3f1a2cd2b152.s3tc.ctex::
+suv.fbx::PackedScene/PackedScene::3094029011470349125::1757667668::1757667692::1::::<><><>0<>0<>1d2ccfbcc2968de11bfdc500f9495372<>res://.godot/imported/suv.fbx-f8dc314f23806a5b6ea4851ce62513b0.scn::
+taxi.fbx::PackedScene::2168107569558936496::1758273205::1758273206::1::::<><><>0<>0<>f55498df39bb75b4273d96e6a4e5d569<>res://.godot/imported/taxi.fbx-6525c5410d485a232e041364347a52e3.scn::uid://bjnd00vek1a0u::::res://assets/colormap.png
